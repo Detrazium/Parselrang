@@ -10,6 +10,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 """please"""
 '''Parse_catalog'''
+"""please"""
 # def parse_catalog():
 #     headers = {
 #         "user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.838 YaBrowser/23.9.4.838 Yowser/2.5 Safari/537.36"
