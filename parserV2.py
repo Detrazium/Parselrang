@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 import psycopg2
-"""Запись csv в постгресс"""
+"""Запись csv в постгресс0"""
 def into_to_postgresql():
     connect = psycopg2.connect(database="my_info_parse", user="postgres", password="", host="127.0.0.1", port="")
     cursor = connect.cursor()

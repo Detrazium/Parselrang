@@ -12,7 +12,7 @@ import time
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.664 YaBrowser/23.9.5.664 Yowser/2.5 Safari/537.36"
 }
-"""Запись csv в постгресс"""
+"""Запись0 csv в постгресс"""
 def into_postgresql():
     connect = psycopg2.connect(database= "my_info_parse", user="postgres", password="", host="127.0.0.1", port="")
     cursor =connect.cursor()

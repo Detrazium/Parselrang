@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 
-"""
+"""0
 /Спарсить каталог через селениум
 /пройтись по всем ссылкам
 /спарсить все возможные материалы

@@ -4,7 +4,7 @@ import csv
 import psycopg2
 import time
 """
-Спарсить все мобилки
+Спарсить все мобилки0
 """
 
 """Запись csv в постгресс"""
